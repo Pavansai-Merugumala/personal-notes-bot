@@ -141,6 +141,6 @@ Feel free to check the [issues page](https://github.com/<your-username>/personal
 
 **Pavan Sai Merugumala**
 📧 [pavansaimerugumala@gmail.com](mailto:pavansaimerugumala@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/pavan-sai-merugumala/) | [GitHub](https://github.com/<your-username>)
+🔗 [LinkedIn](https://www.linkedin.com/in/pavan-sai-merugumala/) 
 
 ---
