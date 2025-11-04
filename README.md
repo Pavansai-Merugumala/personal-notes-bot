@@ -1,9 +1,5 @@
-Perfect 🔥
-Here’s your **final GitHub-ready `README.md`**, now including your actual screenshot link — just copy-paste directly into your repo:
 
----
 
-```markdown
 # 🧠 Personal Notes Q&A Bot
 
 A simple yet powerful AI-powered application that lets you **ask questions from your personal notes** — just like chatting with your own knowledge base!
