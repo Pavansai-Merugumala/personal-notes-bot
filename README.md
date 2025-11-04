@@ -1,4 +1,9 @@
+Perfect 🔥
+Here’s your **final GitHub-ready `README.md`**, now including your actual screenshot link — just copy-paste directly into your repo:
 
+---
+
+```markdown
 # 🧠 Personal Notes Q&A Bot
 
 A simple yet powerful AI-powered application that lets you **ask questions from your personal notes** — just like chatting with your own knowledge base!
@@ -100,7 +105,7 @@ personal-notes-qa-bot/
 
 ---
 
-## 🧩 Example Use Case
+## 🧩 Example Use Cases
 
 | Scenario                   | Description                                                |
 | -------------------------- | ---------------------------------------------------------- |
@@ -110,10 +115,9 @@ personal-notes-qa-bot/
 
 ---
 
-## 📸 Screenshot 
+## 📸 Screenshot
 
-<img src="https://media.licdn.com/dms/image/v2/D5622AQEHdc3PyiD-Bg/feedshare-shrink_2048_1536/B56ZmQQKnOKMA0-/0/1759061781565?e=1763596800&amp;v=beta&amp;t=GBk8RgeNDysYhHAtpSS0k6jLp2WklyPP5ysrn-6ZwEQ" alt="No alternative text description for this image"/>
-
+![App Screenshot](https://media.licdn.com/dms/image/v2/D5622AQEHdc3PyiD-Bg/feedshare-shrink_2048_1536/B56ZmQQKnOKMA0-/0/1759061781565?e=1763596800\&v=beta\&t=GBk8RgeNDysYhHAtpSS0k6jLp2WklyPP5ysrn-6ZwEQ)
 
 ---
 
@@ -141,3 +145,5 @@ Feel free to check the [issues page](https://github.com/<your-username>/personal
 🔗 [LinkedIn](https://www.linkedin.com/in/pavan-sai-merugumala/) 
 
 ---
+
+
