@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # 🧠 Personal Notes Q&A Bot
 
 A simple yet powerful AI-powered application that lets you **ask questions from your personal notes** — just like chatting with your own knowledge base!
@@ -33,6 +29,8 @@ This project demonstrates how to combine **document processing**, **vector embed
 | Document Parsing | PyPDF2, docx2txt, and Text handling |
 
 ---
+
+
 
 ## 📂 Project Structure
 
