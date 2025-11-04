@@ -110,13 +110,10 @@ personal-notes-qa-bot/
 
 ---
 
-## 📸 Screenshot (Optional)
+## 📸 Screenshot 
 
-*(Add your app screenshot here once deployed)*
+<img src="https://media.licdn.com/dms/image/v2/D5622AQEHdc3PyiD-Bg/feedshare-shrink_2048_1536/B56ZmQQKnOKMA0-/0/1759061781565?e=1763596800&amp;v=beta&amp;t=GBk8RgeNDysYhHAtpSS0k6jLp2WklyPP5ysrn-6ZwEQ" alt="No alternative text description for this image"/>
 
-```
-![App Screenshot](./screenshot.png)
-```
 
 ---
 
